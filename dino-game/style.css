@@ -3,7 +3,7 @@ body {
     background-color: #ffffff;
     display: flex;
     justify-content: center;
-
+    bottom: 0px;
     font-family: monospace;
     font-size: 24px;
 }
@@ -21,8 +21,9 @@ body {
     width: 32px;
     height: 64px;
     left: 64px;
-
+    bottom: 0px;
     background-color: #2222ff;
+    margin: 5px;
 }
 
 #score {
